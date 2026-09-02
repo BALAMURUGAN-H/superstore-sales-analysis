@@ -80,17 +80,22 @@ This project answers **20 business questions**, including:
 
 ## 📈 Dashboard Highlights
 
-The final dashboard includes:
+The final dashboard provides a visual summary of the key business insights identified during the analysis.
 
-* Sales by Region
-* Profit by Region
-* Sales by Category
-* Monthly Sales Trend
-* Customer Segment Sales
-* Loss-Making Sub-Categories
-* KPI Summary Cards
+### Dashboard Includes
 
-*(Dashboard image is included in this repository.)*
+- **KPI Summary Cards** — Total Sales, Total Profit, Profit Margin, Orders, and Customers
+- **Sales by Region**
+- **Profit by Region**
+- **Sales by Category**
+- **Profit by Category**
+- **Monthly Sales Trend**
+- **Sales by Customer Segment**
+- **Loss-Making Sub-Categories**
+
+### Dashboard Preview
+
+![Superstore Sales Dashboard](superstore_sales_dashboard.png)
 
 ---
 
